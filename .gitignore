@@ -1,0 +1,18 @@
+#--------------------------#
+# System Default Files    #
+#--------------------------#
+.DS_Store
+._.DS_Store
+/.idea/
+
+#--------------------------#
+# Docker Sync Files    #
+#--------------------------#
+/.docker-sync/
+
+
+#--------------------------#
+# Source Code Files    #
+#--------------------------#
+/source_code/*
+!/source_code/index.php
